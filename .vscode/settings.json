@@ -1,5 +1,7 @@
 {
     "python.analysis.extraPaths": [
         "./tp5_env/src/Punto_map"
-    ]
+    ],
+    "git.ignoreLimitWarning": true,
+    
 }

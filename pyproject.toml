@@ -6,8 +6,8 @@ authors = ["Exequiel-Ansaldi <exeansaldi0@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
-python-ed-fcad-uner = {git = "https://github.com/nachonovello1984/python-ed-fcad-uner.git"}
+python = "^3.11"
+python-ed-fcad-uner = {git = "https://github.com/nachonovello1984/python-ed-fcad-uner", rev = "main"}
 
 
 [build-system]
